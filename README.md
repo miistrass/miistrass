@@ -9,7 +9,9 @@
 
 Tenho 25 anos, moro em Curitiba/PR e sou maluca por tecnologia, gatinhos e astronomia! Uma curiosa, risonha, apaixonada e várias outras bobeiras. Levo na mochila muita vontade de aprender e me aventurar nesse universo que é a programação! ❤️
 
-
+<p align="center">
+	<img width="284" height="380" src="/img/catscream.gif">
+</p>
 
 <h3> 💻 Tecnologias e ferramentas: </h3>
 
