@@ -29,7 +29,7 @@ Tenho 25 anos, moro em Curitiba/PR e sou maluca por tecnologia, gatinhos e astro
 
 📚 Tenho estudado e me aprofundado em JavaScript para web, pois estou à procura da minha primeira vaga DEV.
 
-🎨 Sou desenheira por hobby, gosto de fazer ilustrações digitais no tema de fantasia, você pode ver minhas artes no meu Instagram [@mieilustra](www.instagram.com/mieilustra/)
+🎨 Sou desenheira por hobby, gosto de fazer ilustrações digitais no tema de fantasia, você pode ver minhas artes no meu Instagram [@mieilustra](https://www.instagram.com/mieilustra/)
 
 🎮 Eu amo jogos de RPG de aventura e mundo aberto, meu jogo proferido é The Elder Scrolls V: Skyrim. Também sou uma maluca que gosta de sofrer com souls like e morrer de medo jogando jogo de terror. Mas fora isso, tudo normal por aqui...
 
