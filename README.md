@@ -15,17 +15,25 @@ Tenho 25 anos, moro em Curitiba/PR e sou maluca por tecnologia, gatinhos e astro
 
 <h3> 💻 Tecnologias e ferramentas: </h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
           
 -----
 
-<p>📚 Tenho estudado e me aprofundado em JavaScript para web, pois estou à procura da minha primeira vaga DEV.</p>
+<h3> 👩‍💻 Estudando: </h3>
 
-<p>🎨 Sou desenheira por hobby, gosto de fazer ilustrações digitais com tema de fantasia, você pode ver minhas artes no meu Instagram: https://www.instagram.com/mieilustra/ </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
 
-<p>🎮 Eu amo jogos de RPG de aventura e mundo aberto, meu jogo proferido é The Elder Scrolls V: Skyrim. Também sou uma maluca que gosta de sofrer com souls like e morrer de medo jogando jogo de terror. Mas fora isso, tudo normal por aqui...</p>
+-----
 
-<p>🌌🔭 Sou apaixonada por astronomia e vivo estudando e procurando curiosidades sobre o universo.</p>
+### 🙋‍♀️ Um pouco mais sobre mim... 
+
+📚 Tenho estudado e me aprofundado em JavaScript para web, pois estou à procura da minha primeira vaga DEV.
+
+🎨 Sou desenheira por hobby, gosto de fazer ilustrações digitais no tema de fantasia, você pode ver minhas artes no meu Instagram [@mieilustra](www.instagram.com/mieilustra/)
+
+🎮 Eu amo jogos de RPG de aventura e mundo aberto, meu jogo proferido é The Elder Scrolls V: Skyrim. Também sou uma maluca que gosta de sofrer com souls like e morrer de medo jogando jogo de terror. Mas fora isso, tudo normal por aqui...
+
+🌌🔭 Sou apaixonada por astronomia e vivo estudando e procurando curiosidades sobre o universo.
 
 -----
 
