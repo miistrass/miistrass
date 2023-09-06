@@ -27,7 +27,7 @@ Tenho 25 anos, moro em Curitiba/PR e sou maluca por tecnologia, gatinhos e astro
 
 ### 🙋‍♀️ Um pouco mais sobre mim... 
 
-📚 Tenho estudado e me aprofundado em JavaScript para web, pois estou à procura da minha primeira vaga DEV.
+📚 Tenho estudado e me aprofundado em React, pois estou à procura da minha primeira vaga DEV.
 
 🎨 Sou desenheira por hobby, gosto de fazer ilustrações digitais no tema de fantasia, você pode ver minhas artes no meu Instagram [@mieilustra](https://www.instagram.com/mieilustra/)
 
