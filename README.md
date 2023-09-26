@@ -21,7 +21,7 @@ Tenho 25 anos, moro em Curitiba/PR e sou maluca por tecnologia, gatinhos e astro
 
 <h3> 👩‍💻 Estudando: </h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
 -----
 
