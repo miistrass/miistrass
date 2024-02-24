@@ -1,7 +1,7 @@
 ## Heey, eu sou a Milena 👋
 
 <div>
-    <img src="img/desenho-perfil.jpg" alt="Ilustração da Milena" align="right" width="230px" />	
+    <img src="img/desenho-perfil.jpg" alt="Ilustração da Milena" align="right" width="220px" />	
 </div>
 
 👩‍💻 Apaixonada por front-end, tecnologia, gatos e astronomia
