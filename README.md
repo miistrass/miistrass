@@ -14,6 +14,8 @@
 
 🎓 Fazendo Análise e Desenvolvimento de Sistemas na PUC/PR
 
+✉ Contato: milenastrass@gmail.com
+
 ---
 
 ### 💻 Tecnologias e ferramentas: 
