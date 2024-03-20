@@ -12,7 +12,7 @@
 
 🎮 Jogadora de RPG profissa em The Elder Scrolls V: Skyrim
 
-🎓 Fazendo Análise e Desenvolvimento de Sistemas na PUC/PR
+🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC/PR
 
 ✉ Contato: milenastrass@gmail.com
 
