@@ -1,9 +1,5 @@
 ## Heey, eu sou a Milena 👋
 
-<div>
-    <img src="img/desenho-perfil.jpg" alt="Ilustração da Milena" align="right" width="220px" />	
-</div>
-
 👩‍💻 Apaixonada por front-end, tecnologia, gatos e astronomia
 
 ☕ Viciada em café registrada
@@ -33,10 +29,6 @@
 </div>
 
 -----
-
-<p align="center">
-	<img width="320" height="320" src="/img/psico-mi.jpg" alt="Ilustração psicodélica da Milena">
-</p>
 
 <div align="center">
 	<a href="https://instagram.com/miistrass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
