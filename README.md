@@ -2,11 +2,11 @@
 
 👩‍💻 Apaixonada por front-end, tecnologia, gatos e astronomia
 
-☕ Viciada em café registrada
+☕ Não recuso um cafézinho
 
-🎨 Desenheira digital por hobby
+🎨 Desenhista digital por hobby
 
-🎮 Jogadora de RPG profissa em The Elder Scrolls V: Skyrim
+🎮 Super fã de The Elder Scrolls V: Skyrim
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC/PR
 
